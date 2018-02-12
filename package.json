@@ -1,0 +1,26 @@
+{
+  "name": "halib",
+  "version": "1.0.0",
+  "description": "A functional javascript programming library",
+  "main": "dist/halib.mjs",
+  "directories": {
+    "example": "examples"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/halibjs/halib.git"
+  },
+  "keywords": [
+    "functional",
+    "pure"
+  ],
+  "author": "Mátyás Kiss <halibnet@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/halibjs/halib/issues"
+  },
+  "homepage": "https://github.com/halibjs/halib#readme"
+}
