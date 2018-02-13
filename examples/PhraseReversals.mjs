@@ -1,5 +1,5 @@
 import { reverse, map, words, unwords, cp } from 'halib'
-import { printv1D } from 'output'
+import { printv1D } from './output.mjs'
 
 
 

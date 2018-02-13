@@ -1,6 +1,6 @@
 import { bindL, guardL, returnL, words, map, nul, uncons, elem, del, cons, last, unwords, cp,
          take, len, toUpper } from 'halib'
-import { print, print2D } from 'output'
+import { print, print2D } from './output.mjs'
 
 
 

@@ -1,5 +1,5 @@
 import { map, concat, concatMap, transpose } from 'halib'
-import { print, printTable } from 'output'
+import { print, printTable } from './output.mjs'
 
 
 // from http://rosettacode.org/wiki/Kronecker_product, translation of Haskell

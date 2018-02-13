@@ -1,6 +1,6 @@
 import { cp, foldl, nub, drop, sort, values, sum, fact, countOBy, id, each, takeWhile,
          elemIndex, permutations } from 'halib'
-import { print } from 'output'
+import { print } from './output.mjs'
 
 
 
@@ -40,15 +40,6 @@ const listPosition = word => {
 
 print(listPosition('EGYPTIAN')) // => 6453
 print(listPosition('POSSESSION')) // => 41696
-
-
-
-
-
-
-
-
-
 
 
 

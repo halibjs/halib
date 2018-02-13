@@ -1,5 +1,5 @@
 import { cp, sum, filter, zipWith, scanl1, scanr1, map, sub, max, min } from 'halib'
-import { printh1D } from 'output'
+import { printh1D } from './output.mjs'
 
 
 

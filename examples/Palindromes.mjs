@@ -1,7 +1,7 @@
 import { lines, reverse, len, filter, take, intersect, map, minus, nub, min, elemSorted,
          groupBy, keys, foldr, foldl, unwords } from 'halib'
-import { text } from 'unixdict'
-import { draw2D, printv1D } from 'output'
+import { text } from './unixdict.mjs'
+import { draw2D, printv1D } from './output.mjs'
 
 
 
@@ -118,16 +118,6 @@ ah ha
 al la
 
 */
-
-
-
-
-
-
-
-
-
-
 
 
 

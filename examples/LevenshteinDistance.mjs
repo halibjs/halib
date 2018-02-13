@@ -1,5 +1,5 @@
 import { minimum, uncons, scanl, transpose, last, range, foldl, map, len } from 'halib'
-import { printh1D } from 'output'
+import { printh1D } from './output.mjs'
 
 
 // from http://rosettacode.org/wiki/Levenshtein_distance, translation of Haskell

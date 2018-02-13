@@ -1,7 +1,7 @@
 import { lines, cp, head, sort, maxLen, len, filter, combinations, sortDescBy, takeWhile,
          concatMap, maximumBy, groupBy, all, chain, eq } from 'halib'
-import { text } from 'unixdict'
-import { print, print2D, print3D } from 'output'
+import { text } from './unixdict.mjs'
+import { print, print2D, print3D } from './output.mjs'
 
 
 

@@ -1,5 +1,5 @@
 import { takeFrom, drop, init, elemIndex, seqIndex } from 'halib'
-import { printv1D } from 'output'
+import { printv1D } from './output.mjs'
 
 
 

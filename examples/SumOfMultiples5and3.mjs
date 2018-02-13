@@ -1,5 +1,5 @@
 import { range, sum, unionSorted } from 'halib'
-import { print } from 'output'
+import { print } from './output.mjs'
 
 
 // from http://rosettacode.org/wiki/Sum_multiples_of_3_and_5

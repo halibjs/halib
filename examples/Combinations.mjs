@@ -1,5 +1,5 @@
 import { scanl1, map, cons, append, foldr, repeat, zipWith, combinations, combRep } from 'halib'
-import { print, printArr2D } from 'output'
+import { print, printArr2D } from './output.mjs'
 
 
 
@@ -138,20 +138,4 @@ printArr2D(combRep(3)(list))
   [ 4, 4, 4 ] ]
 
 */
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 

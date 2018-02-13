@@ -1,5 +1,5 @@
 import { seq, replaceAll } from 'halib'
-import { print } from 'output'
+import { print } from './output.mjs'
 
 
 
@@ -31,39 +31,6 @@ He was a soul stripper. He took my heart!
 She was a soul stripper. She took my heart!
 
 */
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 

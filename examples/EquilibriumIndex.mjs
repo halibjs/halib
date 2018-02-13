@@ -1,5 +1,5 @@
 import { scanl1, scanr1, zip, cons, foldr, add, map } from 'halib'
-import { printArr2D } from 'output'
+import { printArr2D } from './output.mjs'
 
 
 
@@ -43,31 +43,6 @@ printArr2D(res)
   [ ] ]
 
 */
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 

@@ -1,5 +1,5 @@
 import { cp, map, unwords, unlines, words, lines, reverse } from 'halib'
-import { print } from 'output'
+import { print } from './output.mjs'
 
 
 
@@ -52,34 +52,6 @@ I hold with those who favor fire.
 ----------------------- Robert Frost
 
 */
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 

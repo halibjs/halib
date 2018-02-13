@@ -1,6 +1,6 @@
 import { len, lines, filter, grouppBy, last, sortDescBy, cp, toObj, alpha, all, concatMap,head,take } from 'halib'
-import { text } from 'unixdict'
-import { print, drawArr3D, printv1D } from 'output'
+import { text } from './unixdict.mjs'
+import { print, drawArr3D, printv1D } from './output.mjs'
 
 
 

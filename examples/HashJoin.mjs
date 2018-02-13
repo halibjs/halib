@@ -1,5 +1,5 @@
 import { bindL, returnL, groupOBy, id, extend, entries, map } from 'halib'
-import { printArr2D } from 'output'
+import { printArr2D } from './output.mjs'
 
 
 const listA = [
@@ -43,37 +43,6 @@ printArr2D(map(entries)(res))
   [ [ age, 28 ], [ name, Alan ], [ character, Alan ], [ nemesis, Zombies ] ] ]
 
 */
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 

@@ -1,5 +1,5 @@
 import { repeat, len, transpose, map, iter } from 'halib'
-import { printTable } from 'output'
+import { printTable } from './output.mjs'
 
 
 // from http://rosettacode.org/wiki/Matrix-exponentiation_operator
@@ -38,45 +38,6 @@ printTable(res)
  832040 514229
 
 */
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 

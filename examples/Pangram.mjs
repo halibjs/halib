@@ -1,5 +1,5 @@
 import { cp, nul, minus, all, elem, range, toLower, map, append } from 'halib'
-import { printv1D } from 'output'
+import { printv1D } from './output.mjs'
 
 
 

@@ -1,5 +1,5 @@
 import { cp, append, take, reverse, unlines, from, map, each, consR, intersperse } from 'halib'
-import { printv1D } from 'output'
+import { printv1D } from './output.mjs'
 
 
 

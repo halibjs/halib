@@ -1,6 +1,6 @@
 import { map, take, cp, groupBy, last, maxLen, len, cons, transpose, repeat, unlines,
          unwords, foldl, init, concat, sortBy, sortDescBy } from 'halib'
-import { print } from 'output'
+import { print } from './output.mjs'
 
 
 // from http://rosettacode.org/wiki/Top_rank_per_group
@@ -76,3 +76,7 @@ Department  D202
 3. David Motsinger E27002  19250
 
 */
+
+
+
+

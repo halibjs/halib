@@ -1,5 +1,5 @@
 import { len, split, seqIndices, countSeq, liftM2L } from 'halib'
-import { printh1D } from 'output'
+import { printh1D } from './output.mjs'
 
 
 
@@ -31,39 +31,6 @@ printh1D(res)
 3 2 2 3 2 2 3 2 2
 
 */
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 

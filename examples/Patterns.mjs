@@ -1,5 +1,5 @@
 import { unlines, map, unchars, repeat, range, from, append, even } from 'halib'
-import { print } from 'output'
+import { print } from './output.mjs'
 
 
 
@@ -63,47 +63,6 @@ print(diamond(5));
   *
 
 */
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 

@@ -1,5 +1,5 @@
 import { map, head, tail, words, unwords, cp, toUpper, cons } from 'halib'
-import { print } from 'output'
+import { print } from './output.mjs'
 
 
 
@@ -24,9 +24,6 @@ print(upper(str))
 The Quick Brown Fox Jumps Over The Lazy Dog.
 
 */
-
-
-
 
 
 

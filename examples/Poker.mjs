@@ -1,6 +1,6 @@
 import { map, words, len, uniq, countBy, head, last, elem, any, seq, delAll, countElem, sortBy,
          elemIndex, rotate, combRep, minimum, liftM2L, append, chars } from 'halib'
-import { print, printTable } from 'output'
+import { print, printTable } from './output.mjs'
 
 
 // from http://rosettacode.org/wiki/Poker_hand_analyser
@@ -129,36 +129,6 @@ printTable(map(h => [h, analyze(h)]) (wildcards))
   [ 'QC TC 7H WW WW', 'three-of-a-kind' ] ]  
 
   */
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 

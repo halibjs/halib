@@ -1,5 +1,5 @@
 import { foldl, shuffle, repeat, map, random } from 'halib'
-import { printTable } from 'output'
+import { printTable } from './output.mjs'
 
 
 // from http://rosettacode.org/wiki/Balanced_brackets
@@ -26,8 +26,6 @@ printTable(res)
 
 
 
-
-
 /*
 
 []][[[]][]   : NOT OK
@@ -42,30 +40,6 @@ printTable(res)
 ][[][]]][[][ : NOT OK
 
 */
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 

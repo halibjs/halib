@@ -1,5 +1,5 @@
 import { repeat, map, each, startsWith, drop, len, foldr, foldl, cp, sum, sectionBy, find, chain } from 'halib'
-import { printv1D, drawh1D } from 'output'
+import { printv1D, drawh1D } from './output.mjs'
 
 
 

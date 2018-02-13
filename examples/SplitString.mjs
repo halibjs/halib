@@ -1,5 +1,5 @@
 import { intersperse, section, unchars } from 'halib'
-import { print } from 'output'
+import { print } from './output.mjs'
 
 
 
@@ -22,15 +22,6 @@ print(res)
 g, HHH, 5, YY, ++, ///, \
 
 */
-
-
-
-
-
-
-
-
-
 
 
 

@@ -1,5 +1,5 @@
 import { cp, len, head, concatMap, section, iterate, liftM2R, add } from 'halib'
-import { printv1D } from 'output'
+import { printv1D } from './output.mjs'
 
 
 // from http://rosettacode.org/wiki/Look-and-say_sequence, translation of Haskell
@@ -38,30 +38,6 @@ printv1D(res)
 11131221133112132113212221
 
 */
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 

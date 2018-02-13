@@ -1,5 +1,5 @@
 import { nul, last, consR, foldl, head, len } from 'halib'
-import { print } from 'output'
+import { print } from './output.mjs'
 
 
 

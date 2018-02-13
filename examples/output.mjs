@@ -1,4 +1,4 @@
-import { cp, len, nul, map, unlines, unwords, maxLen, tpLongest, repeat, intersperse } from './halib.js';
+import { cp, len, nul, map, unlines, unwords, maxLen, tpLongest, repeat, intersperse } from 'halib';
 
 
 export const print = xs => {

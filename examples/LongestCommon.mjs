@@ -1,6 +1,6 @@
 import { transpose, takeWhile, all, head, map, unchars, cp, subsequences, intersect, len,
          maximumBy, inits, tails, concat, repeat, max } from 'halib'
-import { print, printTable } from 'output'
+import { print, printTable } from './output.mjs'
 
 
 
@@ -105,29 +105,5 @@ tsitest
 test
 
 */
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 

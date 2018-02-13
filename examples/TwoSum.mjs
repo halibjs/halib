@@ -1,5 +1,5 @@
 import { findIndex, elemIndexSorted, bindL, guardL, returnL } from 'halib'
-import { printv1D, drawh1D } from 'output'
+import { printv1D, drawh1D } from './output.mjs'
 
 
 // from http://rosettacode.org/wiki/Two_Sum
@@ -44,29 +44,6 @@ printv1D([ts1, ts2])
 1 3
 
 */
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 

@@ -1,5 +1,5 @@
 import { take, untilA, len, maximumBy, map, last, cp, range, takeLast, even, unwords } from 'halib'
-import { printv1D } from 'output'
+import { printv1D } from './output.mjs'
 
 
 

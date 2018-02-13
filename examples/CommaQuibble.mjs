@@ -1,6 +1,6 @@
 import { unchars, reverse, replace, intersperse, chain, join, init, len, last, cp,
          liftM2L, unlines, splitBy, map } from 'halib'
-import { print } from 'output'
+import { print } from './output.mjs'
 
 
 
@@ -55,45 +55,5 @@ print(cp(unlines, map(x => unlines(x) + '\n'), splitBy(len(args)))  (res))
 {ABC, DEF, G and H}
 
 */
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 

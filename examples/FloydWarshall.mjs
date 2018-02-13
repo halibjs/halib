@@ -1,5 +1,5 @@
 import { repeat, each, range, permRep, from, permK, map, unlines, until } from 'halib'
-import { print } from 'output'
+import { print } from './output.mjs'
 
 
 
@@ -58,32 +58,6 @@ pair    dist  path
 4 -> 3    1   4 -> 2 -> 1 -> 3
 
 */
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 

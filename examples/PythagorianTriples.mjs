@@ -1,5 +1,5 @@
 import { bindL, guardL, returnL, range, len, drop, filter } from 'halib'
-import { printv1D } from 'output'
+import { printv1D } from './output.mjs'
 
 
 
@@ -36,19 +36,6 @@ printv1D([len(res), len(prims)])
 70
 
 */
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 

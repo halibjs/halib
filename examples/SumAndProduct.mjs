@@ -1,5 +1,5 @@
 import { filter, combinations, len, intersect, range, all } from 'halib'
-import { print2D } from 'output'
+import { print2D } from './output.mjs'
 
 
 

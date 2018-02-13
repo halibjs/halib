@@ -1,5 +1,5 @@
 import { foldl, map, len, head, repeat, random, iter } from 'halib'
-import { draw2D, print } from 'output'
+import { draw2D, print } from './output.mjs'
 
 
 

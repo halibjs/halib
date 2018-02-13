@@ -1,5 +1,5 @@
 import { and, zipWith, equal, tail, len, nub, cp, sort, liftM2L, splitBy } from 'halib'
-import { print2D } from 'output'
+import { print2D } from './output.mjs'
 
 
 
@@ -45,21 +45,6 @@ false true true true
 false true true true
 
 */
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 

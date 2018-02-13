@@ -1,5 +1,5 @@
 import { cp, uncons, cons, span, range, head, concatMap, len, tail, split, digit } from 'halib'
-import { printh1D } from 'output'
+import { printh1D } from './output.mjs'
 
 
 
@@ -40,11 +40,6 @@ printh1D(res)
 -6 -3 -2 -1 3 4 5 7 8 9 10 11 14 15 17 18 19 20
 
 */
-
-
-
-
-
 
 
 

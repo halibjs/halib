@@ -1,5 +1,5 @@
 import { cp, diags1, splitBy, odd, reverse, from, map, concatMap, invert } from 'halib'
-import { printTable } from 'output'
+import { printTable } from './output.mjs'
 
 
 
@@ -32,24 +32,6 @@ printTable(res)
 10 18 19 23 24
 
 */
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 

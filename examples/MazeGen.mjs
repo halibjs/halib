@@ -1,6 +1,6 @@
 import { repeat, replicate, map, each, shuffle, max, random, zip, unlines, concat, unchars, consR, head,
          lines, chars, len } from 'halib'
-import { print } from 'output'
+import { print } from './output.mjs'
 
 
 // from http://rosettacode.org/wiki/Maze_generation, translation of D
@@ -104,48 +104,6 @@ print(res)
 +---+---+---+---+---+---+---+---+---+---+---+---+---+---+
 
 */
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 

@@ -1,5 +1,5 @@
 import { until, combinations, any, sum, find, map, last } from 'halib'
-import { print2D } from 'output'
+import { print2D } from './output.mjs'
 
 
 // from http://rosettacode.org/wiki/Subset_sum_problem
@@ -39,37 +39,6 @@ archbishop -915
 gestapo 915
 
 */
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 

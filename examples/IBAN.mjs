@@ -1,5 +1,5 @@
 import { delAll, toUpper, len, take, drop, map, unchars, all, range, elem } from 'halib'
-import { print } from 'output'
+import { print } from './output.mjs'
 
 
 // from http://rosettacode.org/wiki/IBAN
@@ -62,24 +62,6 @@ true
 
 
 */
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 

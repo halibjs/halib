@@ -3,11 +3,18 @@
   "version": "1.0.0",
   "description": "A functional javascript programming library",
   "main": "dist/halib.mjs",
+  "module": "dist/halib.mjs",
   "directories": {
     "example": "examples"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "files": [
+    "examples_help/"
+  ],
+  "dependencies": {
+    "halib": "1.0.0"
   },
   "repository": {
     "type": "git",

@@ -1,5 +1,5 @@
 import { endsWith, any, each, toLower, map } from 'halib'
-import { print2D } from 'output'
+import { print2D } from './output.mjs'
 
 
 

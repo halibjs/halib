@@ -1,5 +1,5 @@
 import { len, take, drop, even, repeat, map } from 'halib'
-import { printv1D } from 'output'
+import { printv1D } from './output.mjs'
 
 
 
@@ -49,12 +49,6 @@ printv1D(map (num => num + repeat(10 - len(String(num)),' ') + mid3(num)) (data)
 0         small
 
 */
-
-
-
-
-
-
 
 
 

@@ -1,6 +1,6 @@
 import { cp, map, concat, transpose, splitBy, len, id, filter, minus, any, nul, not, each, unlines,
          uniq, all, findIndex, flip, replaceAt, bindL, returnL, unchars } from 'halib'
-import { print } from 'output'
+import { print } from './output.mjs'
 
 
 

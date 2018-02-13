@@ -1,5 +1,5 @@
 import { startsWith, seq, seqIndex, seqIndices, endsWith, unwords } from 'halib'
-import { printv1D } from 'output'
+import { printv1D } from './output.mjs'
 
 
 
@@ -37,30 +37,6 @@ true
 1 4 7
 
 */
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 

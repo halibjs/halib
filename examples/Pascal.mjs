@@ -1,6 +1,6 @@
 import { zipWith, append, iterate, iter, map, range, last, len, cp, unwords, unlines, add,
          repeat, maximum } from 'halib'
-import { print } from 'output'
+import { print } from './output.mjs'
 
 
 
@@ -83,22 +83,6 @@ print(draw(res2))
    1   14   91  364 1001 2002 3003 3432 3003 2002 1001  364   91   14    1
 
 */
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 

@@ -1,5 +1,5 @@
 import { cp, subsequences, concat, map, del, permutations, concatMap, elemIndex, unwords } from 'halib'
-import { print2D } from 'output'
+import { print2D } from './output.mjs'
 
 
 
@@ -34,29 +34,6 @@ Not possible
 
 
 */
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 

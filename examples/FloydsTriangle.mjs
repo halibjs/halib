@@ -1,5 +1,5 @@
 import { range, cp, map, len, last, repeat, unwords, unlines, sum } from 'halib'
-import { print } from 'output'
+import { print } from './output.mjs'
 
 
 // from http://rosettacode.org/wiki/Floyd%27s_triangle

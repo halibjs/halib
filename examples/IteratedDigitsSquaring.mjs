@@ -1,6 +1,6 @@
 import { cp, filter, sum, map, iter, range, len, until, repeat, each, from, cons, unchars, combRep,
          foldl, fact, sq } from 'halib'
-import { printv1D } from 'output'
+import { printv1D } from './output.mjs'
 
 
 

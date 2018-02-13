@@ -1,6 +1,6 @@
 import { concat, transpose, splitBy, each, filter, elem, notElem, nub, del, prod, copyO,
          all, nul, len, minimumBy, head, any, zip, cp, map } from 'halib'
-import { print2D } from 'output'
+import { print2D } from './output.mjs'
 
 
 

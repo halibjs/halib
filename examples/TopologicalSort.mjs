@@ -1,6 +1,6 @@
 import { len, each, lines, words, map, head, tail, del, delAll, concat, append, find, difference,
          foldl, reject, any, elem } from 'halib'
-import { print, printv1D } from 'output'
+import { print, printv1D } from './output.mjs'
 
 
 

@@ -1,17 +1,16 @@
-import { bindR, returnR, liftM2R } from 'halib'
-import { printv1D } from 'output'
+import { bindR, returnR, liftM2R, add, mul } from 'halib'
+import { printv1D } from './output.mjs'
 
 
 // a simple reader monad example
 
-const plus = a => b => a + b
-const mply = a => b => a * b
 
-const rm = bindR (plus(2))
-     (x => bindR (mply(3))
+
+const rm = bindR (add(2))
+     (x => bindR (mul(3))
      (y => returnR (x + y)))
      
-const rm2 = liftM2R (plus) (plus(2)) (mply(3))
+const rm2 = liftM2R (add) (add(2)) (mul(3))
 
 
 
@@ -30,10 +29,6 @@ printv1D([rm(4), rm2(4)])
 18
 
 */
-
-
-
-
 
 
 

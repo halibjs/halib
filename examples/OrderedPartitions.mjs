@@ -1,5 +1,5 @@
 import { combinations, nul, bindL, returnL, minusSorted, cons, range, sum, head, tail } from 'halib'
-import { printArr3D } from 'output'
+import { printArr3D } from './output.mjs'
 
 
 
@@ -35,22 +35,6 @@ printArr3D(res)
   [ [ 3, 4 ], [ ], [ 1, 2 ] ] ]
 
 */
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 

@@ -1,6 +1,6 @@
 import { minus, permutations, head, bindR, cp, map, transpose, count, fact, del,
          minimumBy, unchars, last, ord, chr, foldl1, sum, chain, len, from, elemIndex } from 'halib'
-import { printv1D } from 'output'
+import { printv1D } from './output.mjs'
 
 
 // from http://rosettacode.org/wiki/Find_the_missing_permutation
@@ -62,25 +62,6 @@ DBAC
 DBAC
 
 */
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 

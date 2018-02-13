@@ -1,5 +1,5 @@
 import { map, append, maxLen, len, transpose, nul, head, unlines, unwords, repeat, keys, cp, sortDescBy } from 'halib'
-import { print } from 'output'
+import { print } from './output.mjs'
 
 // from http://eloquentjavascript.net/code/chapter/06_object.js, translation
 

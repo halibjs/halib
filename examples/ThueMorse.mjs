@@ -1,5 +1,5 @@
 import { append, map, unchars, iter, iterate } from 'halib'
-import { print, printv1D } from 'output'
+import { print, printv1D } from './output.mjs'
 
 
 
@@ -41,25 +41,6 @@ printv1D(map (unchars) (thueMorse2(6)))
 0110100110010110100101100110100110010110011010010110100110010110
 
 */
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 

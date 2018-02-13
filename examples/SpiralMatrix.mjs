@@ -1,5 +1,5 @@
 import { cp, splitBy, from, map, head, len, tail, append, copy, rotateL, invert } from 'halib'
-import { printTable } from 'output'
+import { printTable } from './output.mjs'
 
 
 
@@ -41,54 +41,6 @@ printTable(res)
 12 11 10  9 8
 
 */
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 

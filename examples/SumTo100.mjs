@@ -1,6 +1,6 @@
 import { foldl, foldr, append, unchars, tail, len, permRep, filter, map, sort, nub, last,
          section, divx, head, take, takeLast, sortDescBy, sortDesc, find } from 'halib'
-import { printv1D, drawv1D, draw2D, drawh1D } from 'output'
+import { printv1D, drawv1D, draw2D, drawh1D } from './output.mjs'
 
 
 // from http://rosettacode.org/wiki/Sum_to_100, translation of Haskell, Javascript
@@ -96,28 +96,6 @@ First positive integer not expressible as a sum of this kind:
 
 
 */
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 

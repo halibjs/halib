@@ -1,6 +1,6 @@
 import { cp, sum, map, zipWith, len, mean, transpose, minimumBy, elemIndex, foldr, all, sort, sub,
          take, head, cons, last, minus, combinations, sq, sqrt } from 'halib'
-import { print, printArr2D } from 'output'
+import { print, printArr2D } from './output.mjs'
 
 
 

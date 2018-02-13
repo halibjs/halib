@@ -1,6 +1,6 @@
 import { lines, map, split, len, repeat, maxLen, unwords,
          unlines, last, init, take, drop, tpLongest } from 'halib'
-import { print } from 'output'
+import { print } from './output.mjs'
 
 
 const text =

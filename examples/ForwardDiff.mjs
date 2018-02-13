@@ -1,5 +1,5 @@
 import { zipWith, iterate, tail, len, sub } from 'halib'
-import { printTable } from 'output'
+import { printTable } from './output.mjs'
 
 
 
@@ -39,21 +39,6 @@ printTable(f_diff)
 -2921
 
 */
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 

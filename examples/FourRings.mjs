@@ -1,5 +1,5 @@
 import { len, permK, permRep, filter, range, map } from 'halib'
-import { print, print2D } from 'output'
+import { print, print2D } from './output.mjs'
 
 
 // from http://rosettacode.org/wiki/4-rings_or_4-squares_puzzle
@@ -49,51 +49,6 @@ print('')
 2860
 
 */
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 

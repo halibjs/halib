@@ -1,6 +1,6 @@
 import { elemIndex, elemIndices, sum, cp, nub, filter, permutations, len, odd,
          until, shuffle, insertAt, random, foldl, choice, range } from 'halib'
-import { printv1D } from 'output'
+import { printv1D } from './output.mjs'
 
 
 // from http://rosettacode.org/wiki/Generate_Chess960_starting_position, translation of Haskell
@@ -51,23 +51,6 @@ QRBKRNNB
 QBNRKRBN
 
 */
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 

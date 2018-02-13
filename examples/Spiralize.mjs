@@ -1,5 +1,5 @@
 import { repeat, replicate, consR, cons, rotateR } from 'halib'
-import { printTable } from 'output'
+import { printTable } from './output.mjs'
 
 
 
@@ -43,37 +43,6 @@ printTable(res);
 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1
 
 */
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 

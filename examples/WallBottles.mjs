@@ -1,5 +1,5 @@
 import { foldr, range } from 'halib'
-import { print } from 'output'
+import { print } from './output.mjs'
 
 
 
@@ -59,20 +59,6 @@ Take one down, pass it around
 No bottles of beer on the wall            
 
 */
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 

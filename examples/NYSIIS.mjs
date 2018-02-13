@@ -1,6 +1,6 @@
 import { startsWith, dropWhile, zip, len, replaceSeq, toUpper, reverse, map, cons, filter, chars,
          repeat, elem, replaceAt, deleteAt, init, take, drop } from 'halib'
-import { printTable } from 'output'
+import { printTable } from './output.mjs'
 
 
 // from http://rosettacode.org/wiki/NYSIIS
@@ -106,24 +106,6 @@ mitchell    MATCAL
 o'daniel    ODANAL  
   
   */
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 

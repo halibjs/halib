@@ -1,5 +1,5 @@
 import { from, combinations, repeat, each, zip, sort, reverse, len, permRep } from 'halib'
-import { printTable } from 'output'
+import { printTable } from './output.mjs'
 
 
 

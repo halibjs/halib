@@ -1,5 +1,5 @@
 import { each, keys, len, minimumBy, head, last, del, entries, reverse, cons, foldl, iter } from 'halib'
-import { printh1D } from 'output'
+import { printh1D } from './output.mjs'
 
 
 

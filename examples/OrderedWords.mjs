@@ -1,6 +1,6 @@
 import { lines, sort, maxLen, len, filter, groupBy, head, cp, sortDescBy, takeWhile, ordered, eq } from 'halib'
-import { text } from 'unixdict'
-import { print2D } from 'output'
+import { text } from './unixdict.mjs'
+import { print2D } from './output.mjs'
 
 
 // from http://rosettacode.org/wiki/Ordered_words
@@ -43,25 +43,6 @@ abbott accent accept access accost almost bellow billow biopsy chilly choosy cho
 abbott accent accept access accost almost bellow billow biopsy chilly choosy choppy effort floppy glossy knotty
 
 */
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 

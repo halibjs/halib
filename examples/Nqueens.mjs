@@ -1,6 +1,6 @@
 import { len, zipWith, range, filter, permutations, minus, cons, all, uniq, append, add, sub,
          foldM, map, unlines, unwords } from 'halib'
-import { printv1D, print } from 'output'
+import { printv1D, print } from './output.mjs'
 
 
 

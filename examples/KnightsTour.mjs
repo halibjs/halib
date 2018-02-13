@@ -1,6 +1,6 @@
 import { prod, filter, minus, map, repeat, append, last, nul, minimumBy, cp, len, consR, unwords, unlines,
          each } from 'halib'
-import { print } from 'output'
+import { print } from './output.mjs'
 
 
 // from http://rosettacode.org/wiki/Knight%27s_tour, translation of Haskell
