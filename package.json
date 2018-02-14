@@ -4,6 +4,7 @@
   "description": "A functional javascript programming library",
   "main": "dist/halib.mjs",
   "module": "dist/halib.mjs",
+  "jsnext:main": "dist/halib.mjs",
   "scripts": {
     "test": "jasmine"
   },
@@ -12,7 +13,6 @@
     "examples"
   ],
   "dependencies": {
-    "halib": "1.0.0"
   },
   "repository": {
     "type": "git",
@@ -25,7 +25,8 @@
   "author": "Mátyás Kiss <halibnet@gmail.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/halibjs/halib/issues"
+    "url": "https://github.com/halibjs/halib/issues",
+    "email": "halibnet@gmail.com"
   },
   "homepage": "http://halib.net",
   "devDependencies": {
