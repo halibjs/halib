@@ -32,5 +32,6 @@
   "devDependencies": {
     "jasmine": "^3.0.0",
     "halib": "^1.0.0"
-  }
+  },
+  "unpkg": "dist/halib.min.js"
 }
