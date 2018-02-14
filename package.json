@@ -30,6 +30,7 @@
   },
   "homepage": "http://halib.net",
   "devDependencies": {
-    "jasmine": "^3.0.0"
+    "jasmine": "^3.0.0",
+    "halib": "^1.0.0"
   }
 }
