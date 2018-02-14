@@ -8,7 +8,7 @@
     "example": "examples"
   },
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "jasmine"
   },
   "files": [
     "examples_help/"
@@ -29,5 +29,8 @@
   "bugs": {
     "url": "https://github.com/halibjs/halib/issues"
   },
-  "homepage": "https://github.com/halibjs/halib#readme"
+  "homepage": "https://github.com/halibjs/halib#readme",
+  "devDependencies": {
+    "jasmine": "^3.0.0"
+  }
 }
