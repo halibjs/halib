@@ -27,7 +27,7 @@
   "bugs": {
     "url": "https://github.com/halibjs/halib/issues"
   },
-  "homepage": "https://github.com/halibjs/halib#readme",
+  "homepage": "http://halib.net",
   "devDependencies": {
     "jasmine": "^3.0.0"
   }
