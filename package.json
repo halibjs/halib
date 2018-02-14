@@ -4,14 +4,12 @@
   "description": "A functional javascript programming library",
   "main": "dist/halib.mjs",
   "module": "dist/halib.mjs",
-  "directories": {
-    "example": "examples"
-  },
   "scripts": {
     "test": "jasmine"
   },
   "files": [
-    "examples_help/"
+    "dist",
+    "examples"
   ],
   "dependencies": {
     "halib": "1.0.0"
