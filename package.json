@@ -1,7 +1,7 @@
 {
   "name": "halib",
   "version": "1.0.0",
-  "description": "A functional javascript programming library",
+  "description": "A javascript functional programming library",
   "main": "dist/halib.mjs",
   "module": "dist/halib.mjs",
   "jsnext:main": "dist/halib.mjs",
@@ -20,7 +20,13 @@
   },
   "keywords": [
     "functional",
-    "pure"
+    "functional programming",
+    "side-effect free",
+    "pure functions",
+    "function composition",
+    "point-free",
+    "curry",
+    "currying"
   ],
   "author": "Mátyás Kiss <halibnet@gmail.com>",
   "license": "MIT",
