@@ -28,12 +28,16 @@ To use in web:
 ```javascript
 // your_module.js
 import { fnName } from './halib.js'
+//or
+import { fnName } from '.halib.min.js'
 // or
 import * as h from './halib.js'
+// or
+import * as h from './halib.min.js'
 ```
 
 ```javascript
-// copy node_module/halib/dist/halib.js to the folder of your_module.js
+// copy from node_modules/halib/dist/ the necessary files to the folder of your_module.js 
 ```
 or
 ```html
