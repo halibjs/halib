@@ -61,9 +61,7 @@ $ npm install
 $ node --experimental-modules examples/example.mjs
 ```
 
-## Run tests
-
-After cloning this repositary:
+## Run tests (after cloning this repositary):
 
 Node:
 ```
