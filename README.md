@@ -43,7 +43,7 @@ or
 ```html
 <script src="//cdn.jsdelivr.net/npm/halib@1.0.0/dist/halib.min.js"></script>
 <!--or-->
-<script src="//cdn.unpkg.net/npm/halib@1.0.0/dist/halib.min.js"></script>
+<script src="//unpkg.co/halib@1.0.0/dist/halib.min.js"></script>
 ```
 
 
