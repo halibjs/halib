@@ -29,7 +29,7 @@ To use in web:
 // your_module.js
 import { fnName } from './halib.js'
 //or
-import { fnName } from '.halib.min.js'
+import { fnName } from './halib.min.js'
 // or
 import * as h from './halib.js'
 // or
@@ -44,4 +44,19 @@ or
 <script src="//cdn.jsdelivr.net/npm/halib@1.0.0/dist/halib.min.js"></script>
 <!--or-->
 <script src="//cdn.unpkg.net/npm/halib@1.0.0/dist/halib.min.js"></script>
+```
+
+
+## Run examples
+
+After installation (from node_modules/halib/examples):
+```
+$ node --experimental-modules example.mjs
+```
+Or after cloning this repositary:
+```
+$ npm install
+```
+```
+$ node --experimental-modules example.mjs
 ```
