@@ -72,4 +72,4 @@ $ npm test
 ```
 
 Browser:
-Just open jasmine/SpecRunner.html in you favorite browser.
+Just open jasmine/jasmine-standalone-3.0.0/SpecRunner.html in you favorite browser.
