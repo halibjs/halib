@@ -41,5 +41,7 @@ import * as h from './halib.min.js'
 ```
 or
 ```html
-<script></script>
+<script src="//cdn.jsdelivr.net/npm/halib@1.0.0/dist/halib.min.js"></script>
+<!--or-->
+<script src="//cdn.unpkg.net/npm/halib@1.0.0/dist/halib.min.js"></script>
 ```
