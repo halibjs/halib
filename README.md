@@ -31,11 +31,10 @@ import { fnName } from './halib.js'
 // or
 import * as h from './halib.js'
 ```
-```
+
 ```javascript
 // copy node_module/halib/dist/halib.js to the folder of your_module.js
 ```
 ```html
 <script></script>
-```
 ```
