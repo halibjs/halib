@@ -49,6 +49,8 @@ or
 
 ## Run examples
 
+###Node
+
 After installation:
 ```
 $ node --experimental-modules node_modules/halib/examples/example.mjs
@@ -61,9 +63,13 @@ $ npm install
 $ node --experimental-modules examples/example.mjs
 ```
 
+### Browser
+
+See them in action here
+
 ## Run tests (after cloning this repositary):
 
-Node:
+###Node
 ```
 $ npm install
 ```
@@ -71,5 +77,5 @@ $ npm install
 $ npm test
 ```
 
-Browser:
+### Browser
 Just open jasmine/jasmine-standalone-3.0.0/SpecRunner.html in you favorite browser.
