@@ -49,16 +49,16 @@ or
 
 ## Run examples
 
-After installation (from node_modules/halib/examples):
+After installation:
 ```
-$ node --experimental-modules example.mjs
+$ node --experimental-modules node_modules/halib/examples/example.mjs
 ```
 Or after cloning this repositary:
 ```
 $ npm install
 ```
 ```
-$ node --experimental-modules example.mjs
+$ node --experimental-modules examples/example.mjs
 ```
 
 ## Run tests
