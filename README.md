@@ -72,7 +72,7 @@ Note: At the time of writing this (02.16.2018) there is no jasmine test framewor
 Because of this translated versions (node: cjs, browser: script) of this library are tested.
 
 
-After cloning this repositary.
+After cloning this repositary:
 ### Node
 ```
 $ npm install
