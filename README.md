@@ -65,7 +65,7 @@ $ node --experimental-modules examples/example.mjs
 
 ### Browser
 
-See them in action here
+See the examples in action here
 
 ## Run tests (after cloning this repositary):
 
