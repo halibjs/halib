@@ -13,7 +13,7 @@ To install with node (npm):
 $ npm install halib
 ```
 
-Use in your module
+To use in your module:
 ```javascript
 import { fnName } from 'halib'
 // or
