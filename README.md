@@ -13,18 +13,20 @@ To install with node (npm):
 $ npm install halib
 ```
 
-To use in node module (.mjs):
+To use in node module (your_module.mjs):
 ```javascript
+// your_module.mjs
 import { fnName } from 'halib'
 // or
 import * as h from 'halib'
 ```
 
-To use in web (all files in same folder) :
+To use in web:
 ```html
 <script type="module" src="./your_module.js"></script>
 ```
 ```javascript
+// your_module.js
 import { fnName } from './halib.js'
 // or
 import * as h from './halib.js'
