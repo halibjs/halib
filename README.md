@@ -65,7 +65,7 @@ $ node --experimental-modules examples/example.mjs
 
 ### Browser
 
-See the examples in action here
+See the examples in action [here](http://mts.nhely.hu)
 
 ## Run tests
 Note: At the time of writing this (02.16.2018) there is no jasmine test framework for es6 modules.
