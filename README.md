@@ -80,3 +80,9 @@ $ npm test
 
 ### Browser
 Just open jasmine/jasmine-standalone-3.0.0/SpecRunner.html in you favorite browser.
+
+
+## Tree-shaking
+
+Because the library is one es6 module, if you want to use only a few functions
+from the library (instead of the whole library) you can apply tree-shaking like rollup or webpack.
