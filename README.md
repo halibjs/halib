@@ -67,9 +67,12 @@ $ node --experimental-modules examples/example.mjs
 
 See the examples in action here
 
-## Run tests (after cloning this repositary):
-Note: At the time of writing this (2018.02.16.) there is no jasmine test framework for es6 modules.
+## Run tests
+Note: At the time of writing this (02.16.2018) there is no jasmine test framework for es6 modules.
 Because of this translated versions (node: cjs, browser: script) of this library are tested.
+
+
+After cloning this repositary.
 ### Node
 ```
 $ npm install
