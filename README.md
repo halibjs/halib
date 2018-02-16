@@ -60,3 +60,18 @@ $ npm install
 ```
 $ node --experimental-modules example.mjs
 ```
+
+## Run tests
+
+After cloning this repositary:
+
+Node:
+```
+$ npm install
+```
+```
+$ npm test
+```
+
+Browser:
+Just open jasmine/SpecRunner.html in you favorite browser.
