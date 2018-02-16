@@ -49,7 +49,7 @@ or
 
 ## Run examples
 
-###Node
+### Node
 
 After installation:
 ```
@@ -69,7 +69,7 @@ See them in action here
 
 ## Run tests (after cloning this repositary):
 
-###Node
+### Node
 ```
 $ npm install
 ```
