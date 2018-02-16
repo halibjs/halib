@@ -8,19 +8,15 @@ is one ES6 module, it provides named exports exporting function expressions (fat
 
 ## Installation and use
 
-### To install with node (npm):
+To install with node (npm):
 ```bash
 $ npm install halib
 ```
 
-### Use in your module
-To import named exports:
+Use in your module
 ```javascript
 import { fnName } from 'halib'
-```
-
-To import  namespace:
-```javascript
+// or
 import * as h from 'halib'
 ```
 
