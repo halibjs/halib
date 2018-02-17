@@ -8,12 +8,12 @@ is one ES6 module, it provides named exports exporting function expressions (fat
 
 ## Installation and use
 
-To install with node (npm):
+To install with node:
 ```bash
 $ npm install halib
 ```
 
-To use in node module (your_module.mjs):
+To use in module:
 ```javascript
 // your_module.mjs
 import { fnName } from 'halib'
