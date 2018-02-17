@@ -17,7 +17,6 @@ To use in node:
 ```javascript
 // your_module.mjs
 import { fnName } from 'halib'
-// or
 import * as h from 'halib'
 ```
 ```bash
@@ -25,15 +24,14 @@ $ node your_module
 ```
 
 To use in web:
+```html
+<script type="module" src="./your_module.js"></script>
+```
+
 ```javascript
 // your_module.js
-import { fnName } from './halib.js'
-//or
-import { fnName } from './halib.min.js'
-// or
-import * as h from './halib.js'
-// or
-import * as h from './halib.min.js'
+import { fnName } from './halib.js'   // or './halib.min.js'
+import * as h from './halib.js'       // or './halib.min.js'
 ```
 ```javascript
 // copy from node_modules/halib/dist/ the necessary files to the folder of your_module.js 
@@ -47,9 +45,6 @@ or
 <script src="//unpkg.com/halib@1.0.0/dist/halib.min.js"></script>
 <script src="//unpkg.com/halib@^1/dist/halib.min.js"></script>
 <script src="//unpkg.com/halib"></script>
-```
-```html
-<script type="module" src="./your_module.js"></script>
 ```
 
 
