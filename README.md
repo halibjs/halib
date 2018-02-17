@@ -80,8 +80,3 @@ $ npm test
 ### Browser
 Just open jasmine-standalone-3.0.0/SpecRunner.html in you favorite browser.
 
-
-## Tree-shaking
-
-If you want to use only a few functions from the library (instead of the whole library)
-consider using tree-shaking.
