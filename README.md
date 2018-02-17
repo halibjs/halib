@@ -13,18 +13,18 @@ To install with node:
 $ npm install halib
 ```
 
-To use in module:
+To use in node:
 ```javascript
 // your_module.mjs
 import { fnName } from 'halib'
 // or
 import * as h from 'halib'
 ```
+```bash
+$ node your_module
+```
 
 To use in web:
-```html
-<script type="module" src="./your_module.js"></script>
-```
 ```javascript
 // your_module.js
 import { fnName } from './halib.js'
@@ -35,7 +35,6 @@ import * as h from './halib.js'
 // or
 import * as h from './halib.min.js'
 ```
-
 ```javascript
 // copy from node_modules/halib/dist/ the necessary files to the folder of your_module.js 
 ```
@@ -49,6 +48,9 @@ or
 <script src="//unpkg.com/halib@^1/dist/halib.min.js"></script>
 <script src="//unpkg.com/halib"></script>
 ```
+```html
+<script type="module" src="./your_module.js"></script>
+```
 
 
 ## Run examples
@@ -56,14 +58,14 @@ or
 ### Node
 
 After installation:
-```
+```bash
 $ node --experimental-modules node_modules/halib/examples/example.mjs
 ```
 Or after cloning this repositary:
-```
+```bash
 $ npm install
 ```
-```
+```bash
 $ node --experimental-modules examples/example.mjs
 ```
 
@@ -78,10 +80,10 @@ Because of this translated versions (node: cjs, browser: script) of this library
 
 After cloning this repositary:
 ### Node
-```
+```bash
 $ npm install
 ```
-```
+```bash
 $ npm test
 ```
 
