@@ -54,14 +54,14 @@ or
 
 After installation:
 ```bash
-$ node --experimental-modules node_modules/halib/examples/example.mjs
+$ node node_modules/halib/examples/example.mjs
 ```
 Or after cloning this repositary:
 ```bash
 $ npm install
 ```
 ```bash
-$ node --experimental-modules examples/example.mjs
+$ node examples/example.mjs
 ```
 
 ### Browser
