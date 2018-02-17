@@ -30,8 +30,8 @@ To use in web:
 
 ```javascript
 // your_module.js
-import { fnName } from './halib.js'   // or './halib.min.js'
-import * as h from './halib.js'       // or './halib.min.js'
+import { fnName } from './halib.min.js'
+import * as h from './halib.min.js'
 ```
 ```javascript
 // copy from node_modules/halib/dist/ the necessary files to the folder of your_module.js 
