@@ -66,7 +66,7 @@ $ node examples/example.mjs
 
 ### Browser
 
-See the examples in action [here](http://mts.nhely.hu/examples)
+See the examples in action [here](http://mts.nhely.hu/examples).
 
 ## Run tests
 Note: At the time of writing this (02.16.2018) there is no jasmine test framework for es6 modules.
@@ -88,5 +88,5 @@ Just open jasmine-standalone-3.0.0/SpecRunner.html in you favorite browser.
 
 ## Tree-shaking
 
-Because the library is one es6 module, if you want to use only a few functions
-from the library (instead of the whole library) you can apply tree-shaking like rollup or webpack.
+If you want to use only a few functions from the library (instead of the whole library)
+consider using tree-shaking.
