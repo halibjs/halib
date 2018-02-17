@@ -70,7 +70,7 @@ See the examples in action [here](http://mts.nhely.hu/examples)
 
 ## Run tests
 Note: At the time of writing this (02.16.2018) there is no jasmine test framework for es6 modules.
-Because of this translated versions (node: cjs, browser: script) of this library are tested.
+Because of this translated versions (node: cjs, browser: script) of the library are tested.
 
 
 After cloning this repositary:
