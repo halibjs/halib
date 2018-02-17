@@ -15,35 +15,30 @@ $ npm install halib
 
 To use in node:
 ```javascript
-// your_module.mjs
+// my_module.mjs
 import { fnName } from 'halib'
 import * as h from 'halib'
 ```
 ```bash
-$ node your_module
+$ node my_module.mjs
 ```
 
 To use in web:
 ```html
-<script type="module" src="./your_module.js"></script>
+<script type="module" src="./my_module.js"></script>
 ```
 
 ```javascript
-// your_module.js
+// my_module.js
 import { fnName } from './halib.min.js'
 import * as h from './halib.min.js'
 ```
 ```javascript
-// copy from node_modules/halib/dist/ the necessary files to the folder of your_module.js 
+// copy from node_modules/halib/dist/ the necessary files to the folder of my_module.js 
 ```
 or
 ```html
-<script src="//cdn.jsdelivr.net/npm/halib@1.0.0/dist/halib.min.js"></script>
-<script src="//cdn.jsdelivr.net/npm/halib@1.0/dist/halib.min.js"></script>
 <script src="//cdn.jsdelivr.net/npm/halib@latest/dist/halib.min.js"></script>
-
-<script src="//unpkg.com/halib@1.0.0/dist/halib.min.js"></script>
-<script src="//unpkg.com/halib@^1/dist/halib.min.js"></script>
 <script src="//unpkg.com/halib"></script>
 ```
 
