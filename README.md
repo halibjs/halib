@@ -51,7 +51,7 @@ After installation:
 ```bash
 $ node node_modules/halib/examples/example.mjs
 ```
-Or after cloning this repositary:
+Or clone this repository and:
 ```bash
 $ npm install
 ```
@@ -68,7 +68,7 @@ Note: At the time of writing this (02.16.2018) there is no jasmine test framewor
 Because of this translated versions (node: cjs, browser: script) of the library are tested.
 
 
-After cloning this repositary:
+Clone this repository and:
 ### Node
 ```bash
 $ npm install
