@@ -25,7 +25,7 @@ const board = (width, high) => map (row => map(_ => random(0, 1))(row)) (repeat(
 
 
 const deltas = [[-1,-1],[0,-1],[1,-1],[-1,0],[1,0],[-1,1],[0,1],[1,1]]
-const displayWorld = world => print(draw2D(world) + '\n')
+const displayWorld = world => (print(draw2D(world)), print(''))
 
 
 const conway = (world, turn, maxR = len(world) - 1, maxC = len(head(world)) - 1) => {
