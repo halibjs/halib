@@ -36,10 +36,11 @@ import * as h from './halib.min.js'
 ```javascript
 // copy from node_modules/halib/dist/ the necessary files to the folder of my_module.js 
 ```
-or
-```html
-<script src="//cdn.jsdelivr.net/npm/halib@latest/dist/halib.min.js"></script>
-<script src="//unpkg.com/halib"></script>
+or without installing with node:
+```javascript
+// my_module.js
+import { fnName } from '//cdn.jsdelivr.net/npm/halib@latest/dist/halib.min.js'
+import { fnName } from '//unpkg.com/halib'
 ```
 
 
