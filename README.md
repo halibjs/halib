@@ -39,7 +39,7 @@ import * as h from './halib.min.js'
 or without installing with node:
 ```javascript
 // my_module.js
-import { fnName } from '//cdn.jsdelivr.net/npm/halib@latest/dist/halib.min.js'
+import { fnName } from '//cdn.jsdelivr.net/npm/halib/dist/halib.min.js'
 import { fnName } from '//unpkg.com/halib'
 ```
 
