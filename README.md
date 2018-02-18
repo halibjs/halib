@@ -3,7 +3,7 @@
 Halib is a lightweight (less than 25 kb, minified) but powerful (contains about 250 utility functions),
 easy to learn, easy to use library
 that was from the ground up developed using ES6 JS, to be used in ES6 module. The library itself
-is one ES6 module, it provides named exports exporting function expressions (fat arrow functions).
+is __one ES6 module__, it provides __named exports__ exporting function expressions (fat arrow functions).
 
 
 ## Installation and use
