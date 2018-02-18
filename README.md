@@ -20,7 +20,7 @@ import { fnName } from 'halib'
 import * as h from 'halib'
 ```
 ```bash
-$ node my_module.mjs
+$ node my_module
 ```
 
 To use in web:
@@ -49,14 +49,14 @@ or
 
 After installation:
 ```bash
-$ node node_modules/halib/examples/example.mjs
+$ node node_modules/halib/examples/example
 ```
 Or clone this repository and:
 ```bash
 $ npm install
 ```
 ```bash
-$ node examples/example.mjs
+$ node examples/example
 ```
 
 ### Browser
