@@ -6,7 +6,7 @@ that was from the ground up developed using ES6 JS, to be used in ES6 module. Th
 is __one ES6 module__, it provides __named exports__ exporting function expressions (fat arrow functions).
 
 > node: v10.0.0 or later is needed to run all files below.
-
+>
 > web: Es6 modules may not run in some older browsers.
 
 
