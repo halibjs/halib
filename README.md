@@ -5,7 +5,7 @@ easy to learn, easy to use functional library
 that was from the ground up developed using ES6 JS, to be used in ES6 module. The library itself
 is __one ES6 module__, it provides __named exports__ exporting function expressions (fat arrow functions).
 
-> Note: To run .mjs files v10.0.0 or later node is needed
+> Note: To run .mjs files v10.0.0 or later node is needed.
 
 
 ## Installation and use
