@@ -1,12 +1,11 @@
 # Halib
 
 Halib is a lightweight (less than 25 kb, minified) but powerful (contains about 250 utility functions),
-easy to learn, easy to use library
+easy to learn, easy to use functional library
 that was from the ground up developed using ES6 JS, to be used in ES6 module. The library itself
 is __one ES6 module__, it provides __named exports__ exporting function expressions (fat arrow functions).
 
-> node: v10.0.0 or later is needed to run ES6 module.</br>
-> web: ES6 module may not run in some older browsers.
+> Note: node (v10.0.0 or later) is needed to run .mjs files
 
 
 ## Installation and use
@@ -20,7 +19,6 @@ To use in node:
 ```javascript
 // my_module.mjs
 import { fnName } from 'halib'
-import * as h from 'halib'
 ```
 ```bash
 $ node my_module
@@ -34,7 +32,6 @@ To use in web:
 ```javascript
 // my_module.js
 import { fnName } from './node_modules/halib/dist/halib.min.js'
-import * as h from './node_modules/halib/dist/halib.min.js'
 ```
 or without installing with node:
 ```javascript
@@ -65,8 +62,8 @@ $ node examples/example
 See the examples in action [here](http://mts.nhely.hu/examples).
 
 ## Run tests
-Note: At the time of writing this (02.16.2018) there is no jasmine test framework for es6 modules.
-Because of this translated versions (node: cjs, browser: script) of the library are tested.
+> Note: At the time of writing this (02.16.2018) there is no jasmine test framework for es6 modules.
+> Because of this translated versions (node: cjs, browser: script) of the library are tested.
 
 
 Clone this repository and:
